@@ -100,7 +100,7 @@
      <section id="team">
             <div class="content-box">
                 <div class="content-title">
-                    <h3 class="team">Meet Our Team</h3>
+                    <h2 class="team text-center">Meet Our Team</h2>
           <div class="content-title-underline line"></div>
           
                 </div>
@@ -398,9 +398,8 @@
                       </li>
                       <li class="page-item active"><a class="page-link" href="teampage.php">1</a></li>
                       <li class="page-item"><a class="page-link" href="teampage-2.php">2</a></li>
-                      <li class="page-item"><a class="page-link" href="teampage-3.php">3</a></li>
                       <li class="page-item next">
-                        <a class="page-link" href="teampage-2.php">Next</a>
+                        <a class="page-link" disabled>Next</a>
                       </li>
                     </ul>
                   </nav>
